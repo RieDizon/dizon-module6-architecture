@@ -1,7 +1,7 @@
 # Inventory Management System
 
 ## Student Information
-- Name: Fiel Mark [Your Surname]
+- Name: Arieanne L. Dizon
 - Course and Section: BSCS 3A
 - Subject: Software Engineering 1
 - Module: Module 6 - Architectural Design
